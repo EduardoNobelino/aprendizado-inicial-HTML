@@ -9,12 +9,12 @@ Este projeto foi desenvolvido como parte dos meus estudos iniciais em HTML. O pr
 - Estrutura básica do HTML (head, body, etc.)
 - Títulos: `<h1>` até `<h6>`
 - Parágrafos: `<p>`
-- Formatação de texto: `<strong>`, `<i>`, `<u>`, `<mark>`, `<small>`
-- Listas: `<ul>`, `<ol>`, `<li>`
+- Formatação de texto: `<strong>` `<i>` `<u>` `<mark>` `<small>`
+- Listas: `<ul>` `<ol>` `<li>`
 - Links: `<a>`
 - Citações: `<blockquote>`
 - Subscrito e sobrescrito: `<sub>`, `<sup>`
-- Outras tags: `<abbr>`, `<del>`, `<font>` (usada apenas para fins de aprendizado)
+- Outras tags: `<abbr>` `<del>` `<font>` (usada apenas para fins de aprendizado)
 
 ## 📁 Como Visualizar
 
